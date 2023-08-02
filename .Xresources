@@ -1,0 +1,55 @@
+URxvt.termName: rxvt-unicode
+URxvt.scrollBar: false
+URxvt.font: xft:candy:pixelsize=9
+URxvt.boldFont: xft:candy:pixelsize=9
+URxvt.letterSpace: 0
+URxvt.saveLines: 1000000
+URxvt.clipboard.autocopy: true
+URxvt.depth: 32
+URxvt.geometry: 76x20+717+405
+URxvt.underlineURLs: false
+URxvt*title: URXVT
+URxvt.internalBorder: 13
+
+URxvt.background: #131C19
+URxvt.foreground: #444F4C
+URxvt.iconFile: /home/taco/Pictures/Icons/terminal.png
+URxvt.cursorColor: #252e2b
+URxvt*cursorUnderline: true
+URxvt.colorUL: #2D566E
+
+! black
+! URxvt*color0  : #273B47
+URxvt*color0  : #101715
+URxvt*color8  : #101715
+! red
+URxvt*color1  : #4e3837
+URxvt*color9  : #735959
+! green
+URxvt*color2  : #2c3f33
+URxvt*color10 : #395242
+! yellow
+URxvt*color3  : #4e4737
+URxvt*color11 : #7a573f
+! blue
+URxvt*color4  : #324448
+URxvt*color12 : #41575c
+! magenta
+URxvt*color5  : #373e4e
+URxvt*color13 : #5e526a
+! cyan
+URxvt*color6  : #374c4e
+URxvt*color14 : #4c685f
+! white
+URxvt*color7  : #222e2b
+! URxvt*color15 : #1e3134
+URxvt*color15 : #222e2b
+
+! Xclock colors.
+XClock*foreground: #66767F
+XClock*background: #111E26
+XClock*majorColor:  rgba:c2/c6/c4/ff
+XClock*minorColor:  rgba:c2/c6/c4/ff
+XClock*hourColor:   rgba:c2/c6/c4/ff
+XClock*minuteColor: rgba:c2/c6/c4/ff
+XClock*secondColor: rgba:c2/c6/c4/ff
